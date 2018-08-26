@@ -69,8 +69,8 @@ See the list of [Course Objectives](#course-objectives) below for more details.
 ### Recommended Books
 We will use the following textbooks in this class:
 
-1. [Book of Proof](http://www.people.vcu.edu/~rhammack/BookOfProof/), Hammack.
-2. [Logic and Proof](books/logic_and_proof.pdf), Avigad, Lewis, and van Doorn [(source)](https://github.com/leanprover/logic_and_proof).
+1. [Book of Proof](http://www.people.vcu.edu/~rhammack/BookOfProof/) by Hammack.
+2. [Logic and Proof](https://leanprover.github.io/logic_and_proof/) by Avigad, Lewis, and van Doorn [(pdf)](books/logic_and_proof.pdf) [(source)](https://github.com/leanprover/logic_and_proof).
 
 
 Students are expected to have access to each of these books.
