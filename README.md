@@ -19,6 +19,25 @@ Changes will be announced during lecture. It is helpful, though not required, to
 
 
 
+---
+
+## Contents
+- [Introduction](#introduction)
+- [Course Description](#course-description)
+- [Learning Outcomes](#learning-outcomes)
+- [Textbook Information](#textbook-information)
+- [Writing Intensive Aspects](#writing-intensive-aspects)
+- [Attendance](#attendance)
+- [Code of Conduct and Cheating](#code-of-conduct-and-cheating)
+- [Use of Electronics During Lecture](#use-of-electronics-during-lecture)
+- [Grading Policy](#grading-policy)
+- [Exams](#exams)
+- [Homework](#homework)
+- [Make-up Policy](#make-up-policy)
+- [Asking Questions](#asking-questions)
+- [Email Policy](#email-policy)
+- [Students With Disabilities](#students-with-disabilities)
+- [Additional Resources](#additional-resources)
 
 -----------------------------------
 ## Introduction
