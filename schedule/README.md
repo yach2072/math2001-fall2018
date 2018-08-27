@@ -37,7 +37,7 @@ should refer to this page often.
 
 | Day & Date | Topic | Reading Due | Exercises Due |
 | --- | --- | --- | --- |
-| M 10/1 | Derivations in natural deduction; forward, backward reasoning | **LaP** Ch 3 | |
+| M 10/1 | Derivations; forward and backward reasoning | **LaP** Ch 3 | |
 | W 10/3 | Reasoning by cases, logical identities  | | 
 | F 10/5 |  LEAN: Propositions and proofs |  | **LaP 2.5**: 1, 2, 3; **3.6**: TBA |
 | M 10/8 |  LEAN: natural deduction proofs, forward reasoning |  **LaP** Ch 4 | |

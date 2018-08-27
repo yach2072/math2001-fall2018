@@ -129,7 +129,7 @@ is over.
 ## Code of Conduct and Cheating
 Students must abide by [the university's code of conduct](https://www.colorado.edu/policies/student-classroom-and-course-related-behavior).
 In particular, cheating is unacceptable and will not be tolerated. Violations of this policy
-will be referred to and dealt with by the UH Office of Judicial Affairs in a
+will be referred to and dealt with by the Office of Judicial Affairs in a
 manner consistent with university regulations, which range from a warning to
 expulsion from the university.
 
@@ -176,15 +176,13 @@ performance.
 ## Exams
 There will be two midterm exams each worth 15%, and a final exam worth 30% of the course grade.
 
-+ **MIDTERM EXAM 1** covering chapters (tbd)  
-**DATE:** tbd  
-**TIME:** tbd  
-**LOCATION:** CLUB 13
++ **MIDTERM EXAM 1** (focus: Book of Proof Chapters 2, 4--6).    
+**DATE:** Monday, September 24.    
+**LOCATION:** CLUB 13    
   
-+ **MIDTERM EXAM 2** covering chapters (tbd)  
-**DATE:** tbd  
-**TIME:** tbd  
-**LOCATION:** CLUB 13
++ **MIDTERM EXAM 2** (focus: Logic and Proof Chapters 1--9).   
+**DATE:** Friday, November 9.   
+**LOCATION:** CLUB 13   
 
 + **FINAL EXAM** (cumulative)  
 **DATE:** Sunday, December 16, 2018   
@@ -196,7 +194,7 @@ In accordance with university policy, **the final exam must be taken by all stud
 -----------------------------------
 ## Homework
 The homework will account for 40% of the course grade and will be
-assigned every other week at the beginning of class.
+assigned every week at the beginning of class and posted on the schedule.
 
 Here are some important facts about the homework policy in this class.
 
@@ -297,6 +295,6 @@ early in the semester in order to have their learning needs appropriately met.
 + [Piazza][]  
 + [Math Stackexchange](http://math.stackexchange.com/)  
 
-[Piazza]: https://piazza.com/hawaii/fall2016/math317/home
+[Piazza]: https://piazza.com/colorado/fall2018/math2001/home
 [Piazza page]: https://piazza.com/colorado/fall2018/math2001/home
 [Piazza signup page]: https://piazza.com/colorado/fall2018/math2001
