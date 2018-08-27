@@ -10,7 +10,7 @@ should refer to this page often.
 
 ## August
 
-| Date | Topic | Reading Due | Exercises Due |
+| Day & Date | Topic | Reading Due | Exercises Due |
 | --- | --- | --- | --- |
 | M 8/27 | Course overview; some naive set theory | **BoP** Ch 1 |
 | W 8/29 | Statements and logical connectives | **BoP** 2.1, 2.2 | |
@@ -18,7 +18,7 @@ should refer to this page often.
 
 ## September
 
-| Date | Topic | Reading Due | Exercises Due |
+| Day & Date | Topic | Reading Due | Exercises Due |
 | --- | --- | --- | --- |
 | M 9/3 | (no class---Labor Day) | | | 
 | W 9/5 | Logical equivalence, quantifiers | **BoP** 2.6, 2.7  | |
@@ -35,9 +35,9 @@ should refer to this page often.
 
 ## October
 
-| Date | Topic | Reading Due | Exercises Due |
+| Day & Date | Topic | Reading Due | Exercises Due |
 | --- | --- | --- | --- |
-| M 10/1 | Derivations in natural deduction, Forward and backward reasoning | **LaP** Ch 3 | |
+| M 10/1 | Derivations in natural deduction; forward, backward reasoning | **LaP** Ch 3 | |
 | W 10/3 | Reasoning by cases, logical identities  | | 
 | F 10/5 |  LEAN: Propositions and proofs |  | **LaP 2.5**: 1, 2, 3; **3.6**: TBA |
 | M 10/8 |  LEAN: natural deduction proofs, forward reasoning |  **LaP** Ch 4 | |
@@ -54,7 +54,7 @@ should refer to this page often.
 | F 11/2 |  LEAN: Equality and calculational proofs | |  **LaP 8.6**: TBA |    
 
 ## November
-| Date | Topic | Reading Due | Exercises Due |
+| Day & Date | Topic | Reading Due | Exercises Due |
 | --- | --- | --- | --- |
 | M 11/5 |  catch up and review | | **Team HW 2 -- LaP 9.5**: TBA |
 | W 11/7 | review for test | | |
@@ -74,7 +74,7 @@ should refer to this page often.
 
 ## December
 
-| Date | Topic | Reading Due | Exercises Due |
+| Day & Date | Topic | Reading Due | Exercises Due |
 | --- | --- | --- | --- |
 | M 12/3 | Natural numbers, induction | **LaP** Ch 17 |  **Team HW 3 -- LaP 12.5, 14.3**: TBA |
 | W 12/5 | LEAN: Natural numbers, induction | **LaP** Ch 18 | |   
