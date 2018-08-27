@@ -5,14 +5,13 @@ It will be updated frequently throughout the semester, and students
 should refer to this page often.
 
 **Notation Key.**
-+ **HW** Homework
-+ **BoP** Book of Proof, 3rd Edition
-+ **LaP** Logic and Proof
++ **BoP** Book of Proof (3rd edition)
++ **LaP** Logic and Proof (August 14, 2018 edition)
 
 ## August
 
 | Date | Topic | Reading Due | Exercises Due |
-| --- | --- | --- | --- | --- | 
+| --- | --- | --- | --- |
 | M 8/27 | Course overview; some naive set theory | **BoP** Ch 1 |
 | W 8/29 | Statements and logical connectives | **BoP** 2.1, 2.2 | |
 | F 8/31 | Biconditional; Truth tables |  **BoP** 2.3, 2.4 | **2.1** 4, 6, 8, 10; **2.2**: 2, 4, 8, 10 |
