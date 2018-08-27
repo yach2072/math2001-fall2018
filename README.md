@@ -67,7 +67,7 @@ See the list of [Course Objectives](#course-objectives) below for more details.
 --------------------------------------------------------------------
 ## Textbook Information
 ### Recommended Books
-We will use the following textbooks in this class:
+We will use the following textbooks in this class.
 
 1. [Book of Proof](http://www.people.vcu.edu/~rhammack/BookOfProof/) by Hammack.
 2. [Logic and Proof](https://leanprover.github.io/logic_and_proof/) by Avigad, Lewis, and van Doorn [(pdf)](https://github.com/williamdemeo/math2001-fall2018/blob/master/books/logic_and_proof-20180814.pdf) [(source)](https://github.com/leanprover/logic_and_proof).
@@ -77,8 +77,8 @@ Students are expected to have access to each of these books.
 It may be possible for some students to get by with just the lecture
 notes, but that is not recommended.  
 
-### Alterntive References
-Here are some other (optional) supplementary textbooks that students might find useful:
+### Alternative References
+Here are some other books that might be helpful.
 
 1. [How To Prove It](https://www.amazon.com/How-Prove-Structured-Approach-2nd/dp/0521675995/) by Daniel J. Velleman.
 
