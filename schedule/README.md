@@ -42,14 +42,14 @@ should refer to this page often.
 | F 10/5 |  LEAN: Propositions and proofs |  | **LaP 2.5**: 1, 2, 3; **3.6**: TBA |
 | M 10/8 |  LEAN: natural deduction proofs, forward reasoning |  **LaP** Ch 4 | |
 | W 10/10 | LEAN: definitions, theorems, additional syntax | | |
-| F 10/12 | Classical reasoning, proof by contradiction | **LaP** Chs 5, 6 | |  
+| F 10/12 | Classical reasoning, proof by contradiction | **LaP** Ch 5, 6 | |  
 | M 10/15 | Semantics, trueth values, assignments |    | **Team HW 1 -- LaP 4.7**: TBA  |
 | W 10/17 | Soundness and completeness  | | |
 | F 10/19 | Functions, Predicates, and Relations  | | **LaP 5.3**: TBA; **6.4**: TBA |
 | M 10/22 | Quantifiers again  |  **LaP** Ch 7  | |    
 | W 10/24 | Relativization, Sorts, Equality  | |   |   
-| F 10/26 | Natural deduction rules|  |  **7.6**: TBA|
-| M 10/29 | LEAN: Functions, Predicates, and Relations | **LaP** Chs 8, 9 | |
+| F 10/26 | Natural deduction rules|  |  **LaP 7.6**: TBA|
+| M 10/29 | LEAN: Functions, Predicates, and Relations | **LaP** Ch 8, 9 | |
 | W 10/31 | LEAN: Using Quantifiers | | |    
 | F 11/2 |  LEAN: Equality and calculational proofs | |  **LaP 8.6**: TBA |    
 
