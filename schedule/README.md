@@ -14,16 +14,16 @@ should refer to this page often.
 | --- | --- | --- | --- |
 | M 8/27 | Course overview; some naive set theory | **BoP** Ch 1 |
 | W 8/29 | Statements and logical connectives | **BoP** 2.1, 2.2 | |
-| F 8/31 | Biconditional; Truth tables |  **BoP** 2.3, 2.4 | **2.1** 4, 6, 8, 10; **2.2**: 2, 4, 8, 10 |
+| F 8/31 | Biconditional; Truth tables |  **BoP** 2.3, 2.4 |  |
 
 ## September
 
 | Day & Date | Topic | Reading Due | Exercises Due |
 | --- | --- | --- | --- |
 | M 9/3 | (no class---Labor Day) | | | 
-| W 9/5 | Logical equivalence, quantifiers | **BoP** 2.6, 2.7  | |
-| F 9/7 |  Quantifiers, Translation, Negation | **BoP** 2.8, 2.9, 2.10 | **2.3**: 2, 4, 6, 10; **2.4**: 2, 4; **2.5**: 8, 10 |
-| M 9/10 | Direct Proof |  **BoP** Ch 4 | |
+| W 9/5 | Logical equivalence, quantifiers | **BoP** 2.6, 2.7  | **2.1** 4, 6, 8, 10; **2.2**: 2, 4, 8, 10 |
+| F 9/7 |  Quantifiers, Translation, Negation | **BoP** 2.8, 2.9, 2.10 |  |
+| M 9/10 | Direct Proof |  **BoP** Ch 4 | **2.3**: 2, 4, 6, 10; **2.4**: 2, 4; **2.5**: 8, 10 |
 | W 9/12 | Contrapositive proof  | **BoP** Ch 5 | |
 | F 9/14 | Proving a negated statement | | **2.6**: 2, 8; **2.7**: 2, 6; **2.9**: 2, 6;  **2.10**: 2, 4 |
 | M 9/17 | Proof by contradiction  | **BoP** Ch 6  | |
