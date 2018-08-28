@@ -10,13 +10,11 @@ should refer to this page often.
 
 ## August
 
-| Day & Date | Topic | Reading Due | Exercises Due |
+| Day & Date | Topic | Reading Due | Suggested Exercises |
 | --- | --- | --- | --- |
 | M 8/27 | Course overview; some naive set theory | **BoP** Ch 1 |
-| W 8/29 | Statements and logical connectives | **BoP** 2.1, 2.2 | |
-| F 8/31 | Biconditional; Truth tables |  **BoP** 2.3, 2.4 | **Suggested** exercises from Ch 1 |
-|||| **1.1**: 2, 10, 14, 20, 26, 30, 36, 50 |
-|||| **1.2**: 2, 4, 12, 20  **1.3**: 6, 10, 12, 14|
+| W 8/29 | Statements and logical connectives | **BoP** 2.1, 2.2 | **1.1**: 2, 10, 14, 20, 26, 30, 36, 50 |
+| F 8/31 | Biconditional; Truth tables |  **BoP** 2.3, 2.4 | **1.2**: 2, 4, 12, 20  **1.3**: 6, 10, 12, 14|
 |||| **1.4**: 2,  8, 10, 14, 18; **1.5**: 2, 4, 8 |
 |||| **1.6**: 2, 6; **1.7**: 4, 8; **1.8**: 2, 4, 6, 8 |
   
